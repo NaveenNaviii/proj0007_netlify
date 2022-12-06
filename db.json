@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "firstname": "Naveen",
+      "lastname": "R",
+      "birthdate": "1991-07-23",
+      "gender": "m",
+      "education": "Graduate",
+      "company": "Capgemini",
+      "jobExperience": 3,
+      "salary": 12,
+      "profile": "Naveen Kumar R.jpg",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
